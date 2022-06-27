@@ -1,0 +1,47 @@
+#main{
+    margin:auto;
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
+#title{
+    font-style:normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:60px;
+    text-align: center;
+    margin-top:20px;
+
+}
+
+
+#image{
+    background-color: aliceblue;
+    display: block;
+    margin:auto;
+    max-width:100%;
+    height:auto;
+    
+    border-radius: 5px;
+}
+#img-caption{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:normal;
+    margin-top:10px;
+}
+#tribute-info{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    text-align: left;
+    margin:auto;
+    margin-left:100px;
+    margin-right:100px;
+}
+h3{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#quote{
+    margin-top: 30px;
+    text-align: center;
+}
+ 
